@@ -4,7 +4,7 @@ package main
 import "fmt"
 
 func main() {
-    username := "1luv"
+    username := ".eqe1"
     fmt.Printf("logged in as %s", username)
 }
 ```
